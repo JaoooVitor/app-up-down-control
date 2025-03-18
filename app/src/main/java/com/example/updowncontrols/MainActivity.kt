@@ -31,8 +31,10 @@ class MainActivity : AppCompatActivity() {
 
         // Diminuir contador
         btnDiminuir.setOnClickListener {
-            contador--
-            txtContador.text = contador.toString()
+            if (contador > 0) {
+                contador--
+                txtContador.text = contador.toString()
+            }
         }
 
     }
