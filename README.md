@@ -33,7 +33,7 @@ Define o layout da interface, utilizando **TextView** para exibir o contador e *
 
 ## 📸 Capturas de Tela
 
-<img src="screenshots/contador1.png" width="300"> <img src="screenshots/contador2.png" width="300">
+<img src="screenshots/contador1.jpg" width="300"> <img src="screenshots/contador2.jpg" width="300">
 
 ---
 
